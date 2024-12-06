@@ -1,0 +1,14 @@
+{
+    "name": "static-site",
+    "version": "1.0.0",
+    "description": "Static site build template",
+    "main": "server.js",
+    "scripts": {
+      "build": "echo 'Building static files...'",
+      "start": "echo 'No build step required for static files.'"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
